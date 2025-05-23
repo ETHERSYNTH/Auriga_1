@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1703198682 source:c:\users\big_racoon_window\documents\c_language_course\auriga\codereview\main.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+
